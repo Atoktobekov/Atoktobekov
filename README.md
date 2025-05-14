@@ -30,9 +30,9 @@
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| [nowhereAwake](https://github.com/Atoktobekov/nowhereAwake) | A dark-themed psychological game made for a game jam | Unity, ShaderLab |
+| [nowhereAwake](https://github.com/Atoktobekov/nowhereAwake) | A dark-themed psychological game made for a game jam | Unity, C# |
 | [shitGame](https://github.com/Atoktobekov/shitGame) | My first Unity platformer with core mechanics | Unity, C# |
-| [todoApp](https://github.com/Atoktobekov/todoApp) | A basic experimental app structure | Java (WIP) |
+| [todoApp](https://github.com/Atoktobekov/todoApp) | A basic experimental app structure | Flutter/Dart|
 
 ---
 
