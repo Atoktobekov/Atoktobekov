@@ -8,11 +8,11 @@
 
 ### 👨‍💻 About Me
 
-- 🧠 I’m a self-taught developer with a strong interest in mobile apps and building games
-- 🎯 Looking for **internships** or **junior roles** in software development
-- 🕹️ Game jam winner with hands-on experience in Unity and C#
-- 🛠 Passionate about creating, problem-solving, and working with real projects
-- 🚀 Eager to grow as part of a team and gain professional experience
+- 🎓 2nd-year Computer Science student with a strong self-taught background
+- 💡 Passionate about building mobile apps and atmospheric 2D games
+- 🎯 Actively looking for **junior roles** or **internships** in software development
+- 🧩 Game jam winner with hands-on experience in Unity and C# 
+- 🚀 Eager to grow as part of a team and work on real-world projects
 
 ---
 
@@ -29,20 +29,24 @@
 
 ### 📌 Projects
 
-| Project | Description | Tech |
-|--------|-------------|------|
-| [math_blitz](https://github.com/Atoktobekov/math_blitz) | Mini Math game | Flutter/Dart|
-| [nowhereAwake](https://github.com/Atoktobekov/nowhereAwake) | A dark-themed psychological game made for a game jam | Unity, C# |
-| [shitGame](https://github.com/Atoktobekov/shitGame) | My first Unity platformer with core mechanics | Unity, C# |
+- [**Math Blitz** 🧠](https://github.com/Atoktobekov/math_blitz)  
+  A fast-paced arithmetic quiz game built with Flutter & MVVM pattern.
+
+- [**Nowhere Awake** 🕯](https://github.com/Atoktobekov/nowhereAwake)  
+  A dark, psychological 2D platformer made during a game jam (Unity + C#).
+
+- [**ShitGame** 🎮](https://github.com/Atoktobekov/shitGame)  
+  A basic Unity prototype showcasing platformer mechanics and level transitions.
 
 
 ---
 
 ### 🏅 Highlights
 
-- 🥇 1st place in a local **game jam** (as team lead, developer, and designer)
-- 🧩 Completed a 2D platformer with 10 full levels
-- 🔧 Comfortable with code, design, and rapid prototyping
+- 🥇 1st place in a local **game jam** as team lead, developer, and designer
+- ⚙️ Experienced in both solo and team-based development with clear role distribution
+- 🎮 Completed a standalone 2D platformer with 10 fully-playable levels
+
 
 ---
 
@@ -54,11 +58,11 @@
 
 ---
 
-### ⚡ Fun Facts
+### ⚙️ Personal Touch
 
-- Love fixing and customizing hardware 🛠
-- Armwrestling & strength training fan 💪
-- Want to make good projects with perfect architecture
+- Into custom PC building and hands-on hardware tweaking 🛠️
+- Passionate about strength training and armwrestling 💪
+- Interested in writing clean code and building structured, scalable projects 🧩
 
 ---
 
