@@ -39,12 +39,5 @@
 
 ---
 
-### 📫 Connect
-
-- Telegram: [@dRacula18](https://t.me/dRacula18)
-- Instagram: [adi_toktobekov](https://www.instagram.com/adi_toktobekov)
-- Email: adil_toktobekov@mail.ru
-
----
 
 <h4 align="center">Open to junior roles and internships — thanks for stopping by!</h4>
