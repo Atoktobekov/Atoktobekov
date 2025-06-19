@@ -8,9 +8,7 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 2nd-year Computer Science student with a strong self-taught background
-- 💡 Passionate about building mobile apps and atmospheric 2D games
-- 🎯 Actively looking for **junior roles** or **internships** in software development
+- 🎓 2nd-year Computer Science student
 - 🧩 Game jam winner with hands-on experience in Unity and C# 
 - 🚀 Eager to grow as part of a team and work on real-world projects
 
@@ -41,28 +39,11 @@
 
 ---
 
-### 🏅 Highlights
-
-- 🥇 1st place in a local **game jam** as team lead, developer, and designer
-- ⚙️ Experienced in both solo and team-based development with clear role distribution
-- 🎮 Completed a standalone 2D platformer with 10 fully-playable levels
-
-
----
-
 ### 📫 Let's Connect
 
 - Telegram: [@dRacula18](https://t.me/dRacula18)
 - Instagram: [adi_toktobekov](https://www.instagram.com/adi_toktobekov)
 - Email: adil_toktobekov@mail.ru
-
----
-
-### ⚙️ Personal Touch
-
-- Into custom PC building and hands-on hardware tweaking 🛠️
-- Passionate about strength training and armwrestling 💪
-- Interested in writing clean code and building structured, scalable projects 🧩
 
 ---
 
