@@ -34,12 +34,12 @@
   A dark, psychological 2D platformer made during a game jam (Unity + C#).
 
 - [**ShitGame** 🎮](https://github.com/Atoktobekov/shitGame)  
-  A basic Unity prototype showcasing platformer mechanics and level transitions.
+  Unity game with platformer mechanics and few unique features.
 
 
 ---
 
-### 📫 Let's Connect
+### 📫 Connect
 
 - Telegram: [@dRacula18](https://t.me/dRacula18)
 - Instagram: [adi_toktobekov](https://www.instagram.com/adi_toktobekov)
