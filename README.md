@@ -8,7 +8,7 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 2nd-year Computer Science student
+- 🎓 3rd-year Computer Science student
 - 🧩 Game jam winner with hands-on experience in Unity and C# 
 - 🚀 Eager to grow as part of a team and work on real-world projects
 
