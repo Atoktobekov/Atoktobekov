@@ -27,9 +27,8 @@
 
 ### 📌 Projects
 
-- [**Math Blitz** 🧠](https://github.com/Atoktobekov/math_blitz)  
-  A fast-paced arithmetic quiz game built with Flutter & MVVM pattern.
-
+- [**Crypto App** 🪙](https://github.com/Atoktobekov/flutterLearning)  
+  Simple crypto currencies app built with Flutter.
 - [**Nowhere Awake** 🕯](https://github.com/Atoktobekov/nowhereAwake)  
   A dark, psychological 2D platformer made during a game jam (Unity + C#).
 
