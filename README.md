@@ -32,8 +32,8 @@
 - [**Nowhere Awake** 🕯](https://github.com/Atoktobekov/nowhereAwake)  
   A dark, psychological 2D platformer made during a game jam (Unity + C#).
 
-- [**ShitGame** 🎮](https://github.com/Atoktobekov/shitGame)  
-  Unity game with platformer mechanics and few unique features.
+- [**Yemekhane Manas** 🍛](https://github.com/Atoktobekov/yemekManas)  
+  App for Manas university which shows menu in cafeteria
 
 
 ---
