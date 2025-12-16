@@ -9,8 +9,8 @@
 ### 👨‍💻 About Me
 
 - 🎓 3rd-year Computer Science student
-- 🧩 Game jam winner with hands-on experience in Unity and C# 
-- 🚀 Eager to grow as part of a team and work on real-world projects
+- 🚀 Flutter Mobile Developer with real projects
+- 🧩 Game jam winner with hands-on experience in Unity and C#
 
 ---
 
@@ -22,18 +22,19 @@
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
 
 ### 📌 Projects
 
+
+- [**Yemekhane Manas** 🍛](https://github.com/Atoktobekov/yemekManas)  
+  App for Manas university which shows menu in cafeteria
 - [**Crypto App** 🪙](https://github.com/Atoktobekov/flutterLearning)  
   Simple crypto currencies app built with Flutter.
 - [**Nowhere Awake** 🕯](https://github.com/Atoktobekov/nowhereAwake)  
   A dark, psychological 2D platformer made during a game jam (Unity + C#).
-
-- [**Yemekhane Manas** 🍛](https://github.com/Atoktobekov/yemekManas)  
-  App for Manas university which shows menu in cafeteria
 
 
 ---
