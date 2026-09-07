@@ -8,7 +8,7 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 3rd-year Computer Science student
+- 🎓 final year Computer Science student
 - 🚀 Flutter Mobile Developer with real projects
 - 🧩 Game jam winner with hands-on experience in Unity and C#
 
