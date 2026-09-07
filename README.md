@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Adi 👋</h1>
 
 <p align="center">
-  💻 Flutter  Developer • 🎮 Game Dev Enthusiast • 🇰🇬 Bishkek, Kyrgyzstan
+  💻 Software Engineer • 🎮 Game Dev Enthusiast • Mobile Developer • 🇰🇬 Bishkek, Kyrgyzstan
 </p>
 
 ---
@@ -18,6 +18,7 @@
 
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
@@ -31,8 +32,6 @@
 
 - [**Yemekhane Manas** 🍛](https://github.com/Atoktobekov/yemekManas)  
   App for Manas university which shows menu in cafeteria
-- [**Crypto App** 🪙](https://github.com/Atoktobekov/flutterLearning)  
-  Simple crypto currencies app built with Flutter.
 - [**Nowhere Awake** 🕯](https://github.com/Atoktobekov/nowhereAwake)  
   A dark, psychological 2D platformer made during a game jam (Unity + C#).
 
